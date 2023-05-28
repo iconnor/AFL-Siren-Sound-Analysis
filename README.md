@@ -2,9 +2,7 @@
 
 This repository contains Python scripts for analyzing the frequency composition of the Australian Football League (AFL) game siren sound. It includes Fast Fourier Transform (FFT) analysis of .wav files, identification of the most prominent frequency peaks, and .wav sound generation based on the identified frequencies. The ultimate aim is to reproduce the siren sound using an Arduino microcontroller.
 
-It also runs on the basis that the siren is a twin tone horn, the higher pitch note is a 5th.
-
-The term 5th refers to the musical interval between two notes that are seven semitones apart. For example, the interval between C and G is a 5th. The frequency of the higher note is 3/2 times the frequency of the lower note.
+It also runs on the basis that the siren is a twin tone horn, the higher pitch note is a 5th (seven semitones apart). The frequency of the higher note is 3/2 times the frequency of the lower note.
 
 ## Samples
 
