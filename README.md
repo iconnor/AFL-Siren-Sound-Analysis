@@ -14,10 +14,10 @@ Here's the original sound file:
 
 |   | Sound File |
 |---|------------|
-| Original Sound | <audio src="./wav-files/AFL Siren Sound Effect.wav" controls preload></audio> |
-| Echoed Sound | <audio src="./wav-files/echoed_sine_waves.wav" controls preload></audio> |
-| Combined Sine Waves | <audio src="./wav-files/combined_sine_waves.wav" controls preload></audio> |
-| Twin Tones | <audio src="./wav-files/twin_tones.wav" controls preload></audio> |
+| Original Sound | <audio src="https://media.githubusercontent.com/media/iconnor/AFL-Siren-Sound-Analysis/master/wav-files/AFL Siren Sound Effect.wav" controls preload></audio> |
+| Echoed Sound | <audio src="https://media.githubusercontent.com/media/iconnor/AFL-Siren-Sound-Analysis/master/wav-files/echoed_sine_waves.wav" controls preload></audio> |
+| Combined Sine Waves | <audio src="https://media.githubusercontent.com/media/iconnor/AFL-Siren-Sound-Analysis/master/wav-files/combined_sine_waves.wav" controls preload></audio> |
+| Twin Tones | <audio src="https://media.githubusercontent.com/media/iconnor/AFL-Siren-Sound-Analysis/master/wav-files/twin_tones.wav" controls preload></audio> |
 
 
 
