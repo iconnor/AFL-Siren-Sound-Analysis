@@ -6,6 +6,23 @@ It also runs on the basis that the siren is a twin tone horn, the higher pitch n
 
 The term 5th refers to the musical interval between two notes that are seven semitones apart. For example, the interval between C and G is a 5th. The frequency of the higher note is 3/2 times the frequency of the lower note.
 
+## Samples
+
+## Listen to the Sound
+
+Here's the original sound file:
+
+<audio src="./AFL Siren Sound Effect.wav" controls preload></audio>
+
+|   | Sound File |
+|---|------------|
+| Original Sound | <audio src="./wav-files/AFL Siren Sound Effect.wav" controls preload></audio> |
+| Echoed Sound | <audio src="./wav-files/echoed_sine_waves.wav" controls preload></audio> |
+| Combined Sine Waves | <audio src="./wav-files/combined_sine_waves.wav" controls preload></audio> |
+| Twin Tones | <audio src="./wav-files/twin_tones.wav" controls preload></audio> |
+
+
+
 ## Installation
 
 To run these scripts, you need Python 3 installed. You also need the following Python libraries in your Juptyer environment:
