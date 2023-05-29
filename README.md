@@ -8,6 +8,10 @@ It also runs on the basis that the siren is a twin tone horn, the higher pitch n
 
 ## Listen to the Sound
 
+Here's the original sound file:
+
+<audio src="./AFL Siren Sound Effect.wav" controls preload></audio>
+
 |   | Sound File |
 |---|------------|
 | Original Sound | https://media.githubusercontent.com/media/iconnor/AFL-Siren-Sound-Analysis/master/wav-files/AFL%20Siren%20Sound%20Effect.wav |
